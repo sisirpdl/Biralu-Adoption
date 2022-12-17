@@ -1,6 +1,11 @@
 # Biralu (cat) Adoption
 A basic blockchain and flutter based project for cat adoption.
 
+
+![1](https://user-images.githubusercontent.com/56537691/208242753-4133b2d3-5c71-4b31-a5e3-9b38bbc4c8fc.png)
+![2](https://user-images.githubusercontent.com/56537691/208242766-9a12795a-6620-4e4d-a749-4bd7180b27df.png)
+
+
 ## Installing framework and dependencies
 - Install [**node**](https://nodejs.org/en/) .
 - Once node is installed, install the Truffle from the terminal:
@@ -22,6 +27,5 @@ A basic blockchain and flutter based project for cat adoption.
 ```
 - Run `flutter run`
 
-#### Images
 ![1](https://user-images.githubusercontent.com/56537691/208242753-4133b2d3-5c71-4b31-a5e3-9b38bbc4c8fc.png)
 ![2](https://user-images.githubusercontent.com/56537691/208242766-9a12795a-6620-4e4d-a749-4bd7180b27df.png)
