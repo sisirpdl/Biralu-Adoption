@@ -15,7 +15,7 @@ A basic blockchain and flutter based project for cat adoption.
 - Run ```test```
 
 ```
-📁 biralu_adoption
+📁 Biralu-Adoption
     📁 lib
         contract_linking.dart
           - Update _rpcUrl, _wsUrl, _privateKey as per your needs.
