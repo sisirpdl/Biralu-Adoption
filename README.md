@@ -9,10 +9,10 @@ A basic blockchain and flutter based project for cat adoption.
 
 ### Running the project
 - Open terminal and go to the directory containing flutter and truffle files and folders.
-- Run `truffle console --network development`
-- Run `compile`
-- Run `migrate`
-- Run `test`
+- Run ```truffle console --network development```
+- Run ```compile```
+- Run ```migrate```
+- Run ```test```
 
 ```
 📁 biralu_adoption
